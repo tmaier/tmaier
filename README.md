@@ -7,7 +7,7 @@
 
 🔭 I’m currently working for [Accenture](https://www.accenture.com/) at the day and on [Librario](https://www.librario.de), my SaaS side project, by night
 
-🌱 I’m continuosly learning about novell architectural approaches. I play for example with [Hotwire (HTML over the wire)](https://hotwired.dev) for Librario
+🌱 I’m continuosly learning about novell architectural approaches. Platform Engineering, LLM-driven IDEs, [Hotwire (HTML over the wire)](https://hotwired.dev) etc.
 
 🤔 I’m looking for help with Marketing and Sales for my SaaS side project
 
